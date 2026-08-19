@@ -1,0 +1,6 @@
+{
+  "name": "IDEA AI Academy - 頂尖AI培訓與教育科技賦能學院",
+  "description": "IDEA AI Academy 專注於公開課程、小組研習及企業AI培訓，涵蓋社福機構、大學、中小學至企業之初階至專業級認證與深度學習課程，並整合即時線上報名、學員管理系統與自主研發之兒童AI音樂等工具。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
